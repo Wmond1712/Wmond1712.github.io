@@ -10,10 +10,13 @@ My GitHub page is http://github.com/Wmond1712
 ### CPSC 120
 
 * Lab 3
-  Lab 3, part x
+
+Lab 3, part x
 
 * Lab x
-  Lab x, part x
+
+Lab x, part x
 
 * Lab x
-  Lab x, part x
+
+Lab x, part x
